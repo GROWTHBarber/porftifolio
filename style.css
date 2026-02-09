@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(153, 1, 255);
-    color: white;
+    background-image: url("https://wallpapercave.com/wp/wp5709257.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
 
 }
