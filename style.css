@@ -1,12 +1,13 @@
 body{
 
     
-    background-image: url("https://wallpapercave.com/wp/wp5709257.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp8042838.jpg");
     
 
     background-size: cover;
-    background-position: top center;
+    background-position: center;
     background-repeat: no-repeat;
-    background-color: rgb(5, 5, 5);
+    min-height: 100vh;
+    
 
 }
