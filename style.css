@@ -1,13 +1,11 @@
 body{
-
-    
     background-image: url("https://wallpapercave.com/wp/wp8042838.jpg");
     
 
     background-size: cover;
-    background-position: center;
+    background-position: 47% center  ;
+    
     background-repeat: no-repeat;
     min-height: 100vh;
-    
-
 }
+
